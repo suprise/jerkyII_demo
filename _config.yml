@@ -1,1 +1,4 @@
-baseurl:/jerkyII_demo
+safe: true
+lsi: false
+pygments: true
+source: /jerkyII_demo
